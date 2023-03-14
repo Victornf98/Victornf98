@@ -1,16 +1,14 @@
-### Hi there 👋
+### Prazer, Victor!
 
-<!--
-**Victornf98/Victornf98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Testing and Quality Analyst
+-----------------
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [vitinho.98@hotmail.com)
+* 🧠  I'm learning Playwright, Database, HTML and English
+* 🤝  I'm open to collaborating on Open Source Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/victornunesferreira/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
